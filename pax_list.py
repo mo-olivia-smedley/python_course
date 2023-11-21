@@ -1,0 +1,47 @@
+pax_list = [
+{ 
+        "id": 1, "fname": "Doug", "lname": "Noon", "checked_bags": False,
+        "visited_countries": ["Vatican City", "Ethiopia", "Greece", "Chile"],
+        "flight": {"source": "Tallahassee", "dest": "Omaha"}, "flight_time": 15.05
+    },
+    { 
+        "id": 2, "fname": "Brad", "lname": "Wren", "checked_bags": False,
+        "visited_countries": ["Iceland", "Albania", "Nauru", "Albania", "Benin"],
+        "flight": {"source": "Atlanta", "dest":"Fayetteville"}, "flight_time": 3.80
+    },
+    { 
+        "id": 3, "fname": "Maya", "lname": "Moore", "checked_bags": False,
+        "visited_countries": ["Chile", "Ukraine", "Slovakia", "Brazil", "Malaysia"],
+        "flight": {"source": "Jacksonville", "dest":"Long Beach"}, "flight_time": 5.19
+    },
+    { 
+        "id": 4, "fname": "Nicole", "lname": "Ross", "checked_bags": True,
+        "visited_countries": ["Ecuador", "Egypt", "Myanmar", "Luxembourg", "Swaziland"],
+        "flight": {"source":"London", "dest":"Seattle"}, "flight_time": 5.24
+    },
+    { 
+        "id": 5, "fname": "Gemma", "lname": "Cann", "checked_bags": True,
+        "visited_countries": ["Nauru", "Honduras", "Comoros", "Poland", "Eritrea"],
+        "flight": {"source":"Tokyo", "dest":"Miami"}, "flight_time": 9.94
+    },
+	{ 
+        "id": 6, "fname": "Freya", "lname": "Jarvis", "checked_bags": True,
+        "visited_countries": ["United Arab Emirates", "Ethiopia", "Papua New Guinea"],
+        "flight": {"source":"Otawa", "dest":"Miami"}, "flight_time": 20.86
+    },
+    { 
+        "id": 7, "fname": "Liv", "lname": "Thorne", "checked_bags": False,
+        "visited_countries": ["Sri Lanka", "Angola", "Ethiopia", "Uzbekistan"],
+        "flight": {"source":"Honolulu", "dest":"Ontario"}, "flight_time": 18.70
+    },
+    { 
+        "id": 8, "fname": "Deborah", "lname": "Quinton", "checked_bags": False,
+        "visited_countries": ["Tuvalu", "Nigeria", "Senegal", "Zambia", "Samoa"],
+        "flight": {"source":"Fremont", "dest":"Memphis"},"flight_time": 12.55
+    },
+	{ 
+        "id": 9, "fname": "Camden", "lname": "Oldfield", "checked_bags": False,
+        "visited_countries": ["Uganda", "Benin", "Philippines", "Iran", "Liberia"],
+        "flight": {"source":"Philadelphia", "dest":"Portland"}, "flight_time": 22.83
+    }
+]
